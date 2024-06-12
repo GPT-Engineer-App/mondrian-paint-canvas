@@ -1,6 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
 import { Container, Box, Flex, Button, VStack } from "@chakra-ui/react";
-import { SketchPicker } from "react-color";
+
 
 const mondrianColors = ["#FF0000", "#FFFF00", "#0000FF", "#FFFFFF", "#000000"];
 const brushSizes = [5, 10, 15, 20, 25];
